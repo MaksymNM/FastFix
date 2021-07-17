@@ -1,0 +1,21 @@
+table.mat-table{
+  width: 100%;
+}
+
+
+.mat-row:hover{
+  background-color: rgb(185, 185, 185);
+}
+
+.mat-header-cell{
+  background-color: #343434;
+
+  justify-content:center;
+  color: white;
+  font-size: 14px;
+
+}
+
+.tbl{
+  margin-top: 20px;
+}
